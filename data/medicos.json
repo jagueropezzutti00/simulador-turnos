@@ -1,0 +1,7 @@
+[
+  { "id": 1, "nombre": "Dr. Gustavo Tolin", "especialidad": "Clinico" },
+  { "id": 2, "nombre": "Dra. Cecilia Romano", "especialidad": "Pediatria" },
+  { "id": 3, "nombre": "Dr. Sergio Turini", "especialidad": "Traumatologia" },
+  { "id": 4, "nombre": "Dra. Macarena Morales", "especialidad": "Clinico" },
+  { "id": 5, "nombre": "Dra. Marcela Carrillo", "especialidad": "Pediatria" }
+]
